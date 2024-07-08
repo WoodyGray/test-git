@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ae3f6f9-005d-47b9-ae7a-b0b9f93d513e" name="Changes" comment="test commit" />
+    <list default="true" id="5ae3f6f9-005d-47b9-ae7a-b0b9f93d513e" name="Changes" comment="intelij commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1720441949352</updated>
       <workItem from="1720441950484" duration="1192000" />
-      <workItem from="1720443163475" duration="836000" />
+      <workItem from="1720443163475" duration="1169000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <option name="closed" value="true" />
@@ -74,15 +74,44 @@
       <option name="project" value="LOCAL" />
       <updated>1720443384932</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new feacher first commit">
+      <option name="closed" value="true" />
+      <created>1720446103944</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720446103944</updated>
+    </task>
+    <task id="LOCAL-00005" summary="intelij commit">
+      <option name="closed" value="true" />
+      <created>1720446269631</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720446269631</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="test commit" />
+    <MESSAGE value="new feacher first commit" />
+    <MESSAGE value="intelij commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="intelij commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
